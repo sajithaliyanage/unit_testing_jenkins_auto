@@ -33,7 +33,7 @@
                         <host>127.0.0.1</host>
                         <unitTestPort>9009</unitTestPort>
                         <localServer>
-                            <executionScript>/home/cod4server_slmod/products/product-ei/distribution/target/wso2ei-6.5.0-m5-SNAPSHOT/bin/integrator.sh</executionScript>
+                            <executionScript>/home/cod4server_slmod/products/wso2ei-6.5.0-m5-SNAPSHOT/bin/integrator.sh</executionScript>
                         </localServer>
                     </synapseServer>
                     <testCasesFilePath>${project.basedir}/src/test</testCasesFilePath>
